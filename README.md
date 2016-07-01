@@ -5,3 +5,4 @@
 *By Babitha, Jayne, Nick, Mike, Erika, Justin, Sean* 
 
 <img src="img/haarmonic.jpg">
+<img src="img/haarmonic_cave.png">
